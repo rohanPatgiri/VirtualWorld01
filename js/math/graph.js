@@ -47,7 +47,7 @@ removePoint(point) {
     this.segments.splice(this.segments.indexOf(seg),1);
     
 
-  }
+  } 
 
   getSegmentsWithPoint (point){
     const segs = [];
